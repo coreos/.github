@@ -10,7 +10,7 @@ Our goal is to build a community interested in minimal, secure and scalable oper
 
 - [Join our Discourse Forums](https://discussion.fedoraproject.org/tag/coreos-wg)
 - [Join our Matrix Channel](https://chat.fedoraproject.org/#/room/#coreos:fedoraproject.org) and join the conversations about the project
-- [Consider contributing](https://github.com/coreos/fedora-coreos-tracker?tab=readme-ov-file#fedora-coreos-working-group) if you have ideas to improve the project.
+- [Consider contributing](https://github.com/coreos/fedora-coreos-tracker#fedora-coreos-working-group) if you have ideas to improve the project.
 
 
 Check [the website](https://fedoraproject.org/coreos/) for more information.
